@@ -11,7 +11,7 @@ h1 {
 	font-family: sans-serif;
 }
 
-#sectiontitle1 {
+.section1 {
 	border: 1px solid black;
 	background-color: lightsalmon;
 	text-align: center;
@@ -24,7 +24,7 @@ h1 {
 
 }
 
-#sectiontitle2 {
+.section2 {
 	border: 1px solid black;
 	background-color: orangered;
 	color: white;
@@ -35,7 +35,7 @@ h1 {
 	box-sizing: border-box;
 }
 
-#sectiontitle3 {
+.section3 {
 	border: 1px solid black;
 	background-color: lightyellow;
 	text-align: center;
