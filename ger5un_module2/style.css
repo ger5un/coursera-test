@@ -11,7 +11,7 @@ h1 {
 	font-size: 24px;
 }
 
-#box1 {
+#sectiontitle1 {
 	border: 1px solid black;
 	background-color: lightsalmon;
 	text-align: right;
@@ -23,7 +23,7 @@ h1 {
 
 }
 
-#box2 {
+#sectiontitle2 {
 	border: 1px solid black;
 	background-color: orangered;
 	color: white;
@@ -33,7 +33,7 @@ h1 {
 	box-sizing: border-box;
 }
 
-#box3 {
+#sectiontitle3 {
 	border: 1px solid black;
 	background-color: lightyellow;
 	text-align: right;
