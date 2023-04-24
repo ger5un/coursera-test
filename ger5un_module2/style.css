@@ -19,7 +19,7 @@ h1 {
 	margin-right: auto;
 	margin-left: auto;
 	position: relative;
-	left: 80%;
+	left: 8.33%;
 	box-sizing: border-box;
 
 }
@@ -41,7 +41,7 @@ h1 {
 	background-color: lightgray;
 	color: white;
 	text-align: center;
-	width: 33%;
+	width: 41.33%;
 	margin-right: auto;
 	margin-left: auto;
 	box-sizing: border-box;
@@ -61,7 +61,7 @@ h1 {
 	border: 1px solid black;
 	background-color: lightgray;
 	text-align: center;
-	width: 33%;
+	width: 75%;
 	margin-right: auto;
 	margin-left: auto;
 	box-sizing: border-box;
