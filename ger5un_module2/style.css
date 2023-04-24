@@ -46,7 +46,9 @@ h1 {
 }
 
 #content1 #content2 #content3 {
+	background-color: lightgray;
 	font-size:75%;
+
 }
 
 p {
