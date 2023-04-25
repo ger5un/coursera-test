@@ -27,6 +27,8 @@ h1 {
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: 0%;
+	width 33%
+	padding: 10% 10% 10% 10%;
 	float: right;
 	}
 
@@ -43,6 +45,7 @@ h1 {
 	color: white;
 	text-align: center;
 	width: 33%;
+	padding: 10% 10% 10% 10%;
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: 0%;
