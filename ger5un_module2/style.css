@@ -12,10 +12,11 @@ h1 {
 }
 
 .section1 {
-	border: 1px solid black;
+	border: 1px solid seagreen;
 	background-color: lightgray;
 	text-align: center;
 	margin: 0% 20% 20% 20%;
+	padding: 10% 10% 10% 10%;
 
 }
 
