@@ -15,7 +15,7 @@ h1 {
 	border: 1px solid black;
 	background-color: lightgray;
 	text-align: center;
-	margin: 20% 10% 10% 10%;
+	padding: 30% 20% 20% 20%;
 }
 
 .sectiontitle1 {
@@ -34,7 +34,7 @@ h1 {
 	background-color: lightgray;
 	color: white;
 	text-align: center;
-	margin: 20% 10% 10% 10%;
+	padding-top: 10%;
 }
 
 .sectiontitle2 {
@@ -53,7 +53,7 @@ h1 {
 	border: 1px solid black;
 	background-color: lightgray;
 	text-align: center;
-	margin: 20% 10% 10% 10%;
+	padding-top: 10%;
 }
 
 .sectiontitle3 {
@@ -175,6 +175,45 @@ p {
 
 /* Mobile */
 @media (max-width 767px) {
-
+.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
+	float: left;
+	border: 1px solid black;
+}
+.col-sm-1 {
+	width: 8.33%;
+}
+.col-sm-2 {
+	width: 16.66%;
+}
+.col-sm-3 {
+	width: 25%;
+}
+.col-sm-4 {
+	width: 33%;
+}
+.col-sm-5 {
+	width: 41.33%;
+}
+.col-sm-6 {
+	width: 50%;
+}
+.col-sm-7 {
+	width: 58.33%;
+}
+.col-sm-8 {
+	width: 66.66%;
+}
+.col-sm-9 {
+	width: 75%;
+}
+.col-sm-10 {
+	width: 83.33%;
+}
+.col-sm-11 {
+	width: 91.66%;
+}
+.col-sm-12 {
+	width: 100%;
+}
 }
 
