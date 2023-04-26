@@ -78,13 +78,14 @@ p {
 	font-size: 75%;
 	text-align: left;
 	color:black;
-	padding-top: 20%;
+	padding-top: 10%;
 }
 
 /* Simple */
 .row {
 	border: white;
 	width: 100%;
+	justify-content: space-between;
 }
 
 /* Desktop */
