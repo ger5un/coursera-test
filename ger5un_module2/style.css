@@ -24,11 +24,11 @@ h1 {
 	border: 1px solid black;
 	background-color: lightsalmon;
 	text-align: center;
+	width 33%
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: 0%;
-	width 33%
-	padding: 10% 10% 10% 10%;
+	padding: 2.5% 5% 2.5% 5%;
 	float: right;
 	}
 
@@ -45,10 +45,10 @@ h1 {
 	color: white;
 	text-align: center;
 	width: 33%;
-	padding: 10% 10% 10% 10%;
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: 0%;
+	padding: 2.5% 5% 2.5% 5%;
 	float: right;
 }
 
@@ -78,6 +78,7 @@ p {
 	font-size: 75%;
 	text-align: left;
 	color:black;
+	padding-top: 20%;
 }
 
 /* Simple */
