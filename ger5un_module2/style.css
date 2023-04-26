@@ -72,7 +72,7 @@ h1 {
 
 p {
 	background-color: lightgray;
-	height:200px;
+	height:auto;
 	margin-right: auto;
 	margin-left: auto;
 	font-size: 75%;
