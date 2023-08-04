@@ -16,10 +16,11 @@ h1 {
 	background-color: lightgray;
 	text-align: center;
 	margin: 5%;
+	position: relative;
 
 }
 
-h2.sectiontitle1 {
+.sectiontitle1 {
 	border: 1px solid black;
 	background-color: lightsalmon;
 	text-align: center;
