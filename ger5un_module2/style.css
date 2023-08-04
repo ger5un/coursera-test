@@ -26,9 +26,12 @@ h1 {
 	width: 33%;
 	margin-right: auto;
 	margin-left: auto;
-	margin-top: -1%;
+	margin-top: 0%;
 	padding: 2% 5% 2% 5%;
-	float: right;
+	position: relative;
+	top: 0%;
+	right: 67%;
+/*	float: right;*/
 }
 
 .section2 {
