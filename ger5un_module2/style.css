@@ -28,7 +28,7 @@ h1 {
 	margin-left: auto;
 	margin-top: 0%;
 	padding: 2% 5% 2% 5%;
-	position: relative;
+	position: absolute;
 	top: 100%;
 	left: 100%;
 /*	float: right;*/
