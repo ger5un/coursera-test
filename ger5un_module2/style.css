@@ -24,7 +24,7 @@ h1 {
 	border: 1px solid black;
 	background-color: lightsalmon;
 	text-align: center;
-	width: 75px;
+	width: 33%;
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: 0%;
@@ -48,7 +48,7 @@ h1 {
 	background-color: orangered;
 	color: white;
 	text-align: center;
-	width: 75px;
+	width: 33%;
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: 0%;
@@ -70,7 +70,7 @@ h1 {
 	border: 1px solid black;
 	background-color: lightyellow;
 	text-align: center;
-	width: 75px;
+	width: 33%;
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: 0%;
@@ -145,8 +145,6 @@ p {
 @media (min-width: 768px) and (max-width: 991px) {
 .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
 	float: left;
-	margin-left: auto;
-	margin-right: auto;
 
 
 }
@@ -185,7 +183,7 @@ p {
 }
 .col-md-12 {
 	width: 100%;
-/*	margin-left: -1.25%*/
+	margin-left: -1.25%
 
 }
 }
