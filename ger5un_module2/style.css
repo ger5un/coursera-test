@@ -85,7 +85,7 @@ p {
 	font-size: 75%;
 	text-align: left;
 	color: black;
-	padding: 22px 10px 2px 5px;
+	padding: 24px 10px 2px 5px;
 }
 
 /* Simple */
@@ -226,7 +226,7 @@ p {
 }
 .col-sm-12 {
 	width: 100%;
-	margin-right: 5%;
+	margin-right: 5px;
 }
 }
 
