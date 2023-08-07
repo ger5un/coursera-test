@@ -88,7 +88,7 @@ p {
 	font-size: 75%;
 	text-align: left;
 	color: black;
-	padding: 10% 5% 2% 5%;
+	padding: 10% 2.5% 1% 2.5%;
 }
 
 /* Simple */
@@ -183,7 +183,6 @@ p {
 }
 .col-md-12 {
 	width: 100%;
-	height: auto;
 	margin-left: -1.25%
 
 }
