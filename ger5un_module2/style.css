@@ -179,9 +179,9 @@ p {
 	width: 91.66%;
 }
 .col-md-12 {
-	width: 90%;
+	width: 100%;
 	margin-left: -1.25%;
-/*	margin-right: 5%;*/
+	margin-right: -5%;
 
 }
 }
