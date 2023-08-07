@@ -183,7 +183,7 @@ p {
 }
 .col-md-12 {
 	width: 100%;
-	height: 80%;
+	height: auto;
 	margin-left: -1.25%
 
 }
