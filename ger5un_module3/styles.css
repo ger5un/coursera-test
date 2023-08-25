@@ -1,0 +1,114 @@
+body {
+	font-size: 16px;
+	color: navy;
+	background-color: lightcyan;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+#menu-category-title {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+#header-nav {
+	background-color: lightblue;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-brand {
+	padding-top: 25px;
+}
+
+.navbar-brand h1 {
+	font-family: 'Josefin Sans', sans-serif;
+	color: palevioletred;
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .85;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid navy;
+}
+
+.navbar-header button.navbar-toggle {
+	clear: both;
+	margin-top: -30px;
+}
+
+/*collapsed nav bar styling*/
+#nav-list {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background-color: palevioletred;
+}
+
+#nav-list a {
+	color: navy;
+}
+
+#nav-list a:hover {
+	background: palegoldenrod;
+}
+
+#nav-list a span {
+	font-size: 1.8em;
+}
+
+#main-content p {
+	font-size: 1.2em;
+	font-weight: bold;
+	border: 1px solid navy;
+	padding: 20px;
+	background-color: lightgoldenrodyellow;
+}
+
+#main-content span {
+	font-size: 1em;
+	font-weight: normal;
+
+}
+
+/*media queries*/
+/*large devices*/
+@media (min-width: 1200px) {
+
+}
+
+/*medium devices*/
+@media (min-width: 992px) and (max-width: 1199px) {
+	
+}
+
+/*small devices*/
+@media (min-width: 768px) and (max-width: 991px) {
+	
+
+}
+
+/*extra small devices*/
+@media (min-width: 767px) {
+	
+	.navbar-brand {
+		padding-top:10px;
+		height: 80px;
+	}
+
+	.navbar-brand h1 {
+		padding-top: 10px;
+		font-size: 4vw;
+	}
+
+	#collapsable-nav a {
+		font-size: 1.2em;
+	}
+}
+
+
+
